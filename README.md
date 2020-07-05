@@ -58,31 +58,31 @@ This contains subfolders of all audio recordings with their linker.txt files in 
 This contains all the .txt files used in recording.
 
 
-### 4. Prerocessing:
+### 4. Preprocessing:
 This is the jupyter notebook with all the preprocessing used for the data. It contains the code on how the data is splitted into train, test and validation sets.
 
 
-##  Application:
+## 5. Application:
 
 Usally, it is hard getting data for low-resource languages. This challenge therefore makes it hard to build useful models for  these languages depsite the huge number of users of these languages. This dataset will therefore serve as a start and hopefully additional data will be collected. If a large size of the data is collected, one can build a well developed speech to text model.
 
 
-## Challenges
+## 6. Challenges
 
 - Some audio files were corrupted and I am still unsure how/ why these files were corrupted.
 - I hard some difficulties pronucing some of the words.
 - Some of the audio had some noice from the environment.
 -
 
-## Suggestions:
+## 7. Suggestions:
 
 The app should include a delete icon when recording so one can easily delete a current a wrongly recorded file.
 
-## Contributing
+##  8. Contributing
 You are welcome to contribute to this project by recording audio files in pidgin and sending me a merge request.
 
 
-## License
+## 9. License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
