@@ -64,7 +64,7 @@ This is the jupyter notebook with all the preprocessing used for the data. It co
 
 ## 5. Application:
 
-Usally, it is hard getting data for low-resource languages. This challenge therefore makes it hard to build useful models for  these languages depsite the huge number of users of these languages. This dataset will therefore serve as a start and hopefully additional data will be collected. If a large size of the data is collected, one can build a well developed speech to text model.
+Usually, it is hard getting data for low-resource languages. This challenge therefore makes it hard to build useful models for  these languages depsite the huge number of users of these languages. This dataset will therefore serve as a start and hopefully additional data will be collected. If a large size of the data is collected, one can build a well developed speech to text model.
 
 
 ## 6. Challenges
